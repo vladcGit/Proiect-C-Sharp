@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meciuri>
+  <04/24/2021>
+    <Barcelona-Manchester City>
+      <Jucatori_Gazde>
+        <Titulari>
+          <Valdes />
+          <Alves />
+          <Puyol />
+          <Pique />
+          <Mascherano />
+          <Bousquets />
+          <Xavi />
+          <Iniesta />
+          <Messi />
+          <David />
+          <Pedro />
+        </Titulari>
+        <Rezerve>
+          <Ronaldinho />
+          <Ter />
+          <Deco />
+          <Eto'o />
+          <Henry />
+          <Rivaldo />
+          <Marquez />
+        </Rezerve>
+      </Jucatori_Gazde>
+      <Jucatori_Oaspeti>
+        <Titulari>
+          <Ederson />
+          <Walker />
+          <Dias />
+          <Stones />
+          <Cancelo />
+          <Rodri />
+          <Gundogan />
+          <DeBruyne />
+          <Mahrez />
+          <Jesus />
+          <Sterling />
+        </Titulari>
+        <Rezerve>
+          <Foden />
+          <Torres />
+          <Laporte />
+          <Fernandinho />
+          <Aguero />
+          <Silva />
+        </Rezerve>
+      </Jucatori_Oaspeti>
+    </Barcelona-Manchester City>
+    <Barcelona-Real Madrid>
+      <Jucatori_Gazde>
+        <Titulari>
+          <Valdes />
+          <Alves />
+          <Puyol />
+          <Pique />
+          <Mascherano />
+          <Bousquets />
+          <Xavi />
+          <Iniesta />
+          <Messi />
+          <David />
+          <Pedro />
+        </Titulari>
+        <Rezerve>
+          <Ronaldinho />
+          <Ter />
+          <Deco />
+          <Eto'o />
+          <Henry />
+          <Rivaldo />
+          <Marquez />
+        </Rezerve>
+      </Jucatori_Gazde>
+      <Jucatori_Oaspeti>
+        <Titulari>
+          <Casillas />
+          <Salgado />
+          <Helguera />
+          <Ramos />
+          <Roberto />
+          <Guti />
+          <Zidane />
+          <Beckham />
+          <Robinho />
+          <Ronaldo />
+          <Raul />
+        </Titulari>
+        <Rezerve>
+          <Soldado />
+          <Cassano />
+          <Diego />
+        </Rezerve>
+      </Jucatori_Oaspeti>
+    </Barcelona-Real Madrid>
+    <Barcelona-AC Milan>
+      <Jucatori_Gazde>
+        <Titulari>
+          <Valdes />
+          <Alves />
+          <Puyol />
+          <Pique />
+          <Mascherano />
+          <Bousquets />
+          <Xavi />
+          <Iniesta />
+          <Messi />
+          <David />
+          <Pedro />
+        </Titulari>
+        <Rezerve>
+          <Ronaldinho />
+          <Ter />
+          <Deco />
+          <Eto'o />
+          <Henry />
+          <Rivaldo />
+          <Marquez />
+        </Rezerve>
+      </Jucatori_Gazde>
+      <Jucatori_Oaspeti>
+        <Titulari>
+          <Dida />
+          <Cafu />
+          <Stam />
+          <Nesta />
+          <Maldini />
+          <Pirlo />
+          <Gatusso />
+          <Seedorf />
+          <Shevchenko />
+          <Kaka />
+          <Crespo />
+        </Titulari>
+        <Rezerve>
+          <Gullit />
+          <Van />
+        </Rezerve>
+      </Jucatori_Oaspeti>
+    </Barcelona-AC Milan>
+  </04/24/2021>
+</Meciuri>
